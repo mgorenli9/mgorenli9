@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ _special_ 
+
 - 🔭 I’m currently working as a Software Developer Intern at Phexum Software Company
 - ✨ I graduated from Computer Science Department in Dokuz Eyul University 
 - 🌱 I’m currently developing Android applications with using Java, Android Studio. I completed my final project on this area.
