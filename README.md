@@ -6,5 +6,5 @@
 - 👯 I’m looking for an open position in Mobile Development or Web development
 - 💬 Ask me about Java, Android SDK, Anroid Development
 - 📫 How to reach me: gorenli.mehmet7@gmail.com
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
+[![Linkedin]([https://badgen.net/badge/icon/twitter?icon=twitter&label](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetgorenli)
 
